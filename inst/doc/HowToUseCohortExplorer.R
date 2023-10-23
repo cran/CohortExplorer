@@ -1,5 +1,4 @@
-## ---- echo = FALSE, message = FALSE-------------------------------------------
-library(SqlRender)
+## ----echo = FALSE, message = FALSE--------------------------------------------
 knitr::opts_chunk$set(
   cache = FALSE,
   comment = "#>",
